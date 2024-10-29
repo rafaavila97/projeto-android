@@ -179,6 +179,7 @@
         }
         
         aside ul{
+            font-size: normal;
             list-style-position:inside;
             list-style-type:\2714\00a0;
             columns:2
